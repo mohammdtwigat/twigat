@@ -1,0 +1,8 @@
+streamlit
+pandas
+openpyxl
+pillow
+streamlit-js-eval
+gspread
+google-auth
+reportlab
